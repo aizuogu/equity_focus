@@ -16,8 +16,6 @@ In exploring data about disadvantaged communities and their proximity to toxic f
 
 ## Reseach Methodology
 Data conducted by the University of California Berkeley and University of California Los Angeles and their project, “Toxic Tides,” maps the density in city/neighborhood of toxic facilities like power Plants, sewage treatment, hazardous waste treatment, landfulls, and incinerators, refineries, oil and gas wells etc. This data provides important spatial data on disadvantaged communities like Wilmington, Oxnard and Richmond in California. We are choosing to keep our scope within a city like Oxnard and juxtapose this map to a city of a varying racial makeup and range of median household incomes like Malibu. We want to create a comparative analysis that visually displays the racial disparities taking place. Our research will be composed of data mapping the location and quantity of toxic facilities within Malibu, this can be accomplished using the EnviroStor Database that contains information on the location of these facilities. We also plan to map disadvantaged communities as defined by SCAG. We also plan to use the census and data on racial demographics and median household income in both Oxnard and Malibu.
-
-
-
+![research-flowchart_toxic_facilities](https://user-images.githubusercontent.com/97036725/149727066-50a33ce2-2c48-4b8b-99d4-8af22fb1e4e8.jpg)
 ## Conclusion
 Oxnard and other disadvantaged communities have a disproportionate amount of hazardous facilities within their city limits. This could expose communities to a plethora of toxins and pollutants and poses a great public health concern. Through our research we plan to explore the intersection of racial justice and environmental justice. Our goal is to visually display and address the disparities, question what policy is driving this inequality and what policy and protections can be enacted in order to address not only the environmental crisis, but the racial inequities taking place.
